@@ -1,6 +1,6 @@
 <b>A Clojure example of Multi-Objective Genetic Algorithm</b>
 
-To run the application use Leiningen get dependencies and call "lein run".
+To run the application use Leiningen, get dependencies and call "lein run".
 
 The input data is randomly generated.
 
