@@ -1,5 +1,8 @@
 <b>A Clojure example of Multi-Objective Genetic Algorithm</b>
 
+<a href="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.112.5073"> Using SPEA2: Improving the Strength Pareto Evolutionary Algorithm (2001)</a>
+
+
 To run the application use Leiningen, get dependencies and call "lein run".
 
 The input data is randomly generated.
