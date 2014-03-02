@@ -3,7 +3,7 @@
             [clojure-genetic-algorithm-example.clj.fitnesses :as f]
             [clojure-genetic-algorithm-example.clj.core :refer :all]
             [midje.sweet :refer :all]
-            [midje.repl :as mr]
+            [midje.repl :as mr :exclude [record?]]
             [criterium.core :as c]))
 
 

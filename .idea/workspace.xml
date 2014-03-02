@@ -73,10 +73,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="project.clj" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="project.clj" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project.clj">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="18" selection-start="263" selection-end="296" vertical-scroll-proportion="0.14119601" vertical-offset="0" max-vertical-offset="602">
+            <state line="16" column="0" selection-start="855" selection-end="855" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Order1.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/clojure_genetic_algorithm_example/java/crossover/Order1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="5" selection-start="317" selection-end="317" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1989">
               <folding />
             </state>
           </provider>
@@ -85,7 +94,34 @@
       <file leaf-file-name="core_test.clj" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/clojure_genetic_algorithm_example/clj/core_test.clj">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="44" selection-start="2298" selection-end="2298" vertical-scroll-proportion="0.0" vertical-offset="697" max-vertical-offset="901">
+            <state line="5" column="49" selection-start="342" selection-end="360" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="901">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="crossover_test.clj" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/clojure_genetic_algorithm_example/clj/crossover_test.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="80" selection-start="1151" selection-end="1151" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fitnesses_test.clj" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/clojure_genetic_algorithm_example/clj/fitnesses_test.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="49" selection-start="212" selection-end="212" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="util_test.clj" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/clojure_genetic_algorithm_example/clj/util_test.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="49" selection-start="172" selection-end="208" vertical-scroll-proportion="0.060283687" vertical-offset="0" max-vertical-offset="846">
               <folding />
             </state>
           </provider>
@@ -104,12 +140,12 @@
         <option value="$PROJECT_DIR$/src/clojure_genetic_algorithm_example/clj/fitnesses.clj" />
         <option value="$PROJECT_DIR$/src/clojure_genetic_algorithm_example/java/crossover/Order1.java" />
         <option value="$PROJECT_DIR$/src/clojure_genetic_algorithm_example/clj/util.clj" />
-        <option value="$PROJECT_DIR$/test/clojure_genetic_algorithm_example/clj/util_test.clj" />
-        <option value="$PROJECT_DIR$/test/clojure_genetic_algorithm_example/clj/fitnesses_test.clj" />
         <option value="$PROJECT_DIR$/test/clojure_genetic_algorithm_example/clj/crossover_test.clj" />
-        <option value="$PROJECT_DIR$/test/clojure_genetic_algorithm_example/clj/core_test.clj" />
         <option value="$PROJECT_DIR$/src/clojure_genetic_algorithm_example/clj/core.clj" />
         <option value="$PROJECT_DIR$/project.clj" />
+        <option value="$PROJECT_DIR$/test/clojure_genetic_algorithm_example/clj/core_test.clj" />
+        <option value="$PROJECT_DIR$/test/clojure_genetic_algorithm_example/clj/fitnesses_test.clj" />
+        <option value="$PROJECT_DIR$/test/clojure_genetic_algorithm_example/clj/util_test.clj" />
       </list>
     </option>
   </component>
@@ -442,7 +478,7 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32910052" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32910052" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Leiningen" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32959402" sideWeight="0.4994709" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -456,7 +492,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1650641" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="REPL" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32959402" sideWeight="0.5005291" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="REPL" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32959402" sideWeight="0.5005291" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32910052" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -505,43 +541,18 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="884" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/clojure_genetic_algorithm_example/java/crossover/Order1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="19" selection-end="19" vertical-scroll-proportion="0.01923077" vertical-offset="0" max-vertical-offset="1989">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/clojure_genetic_algorithm_example/clj/fitnesses.clj">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="4" selection-start="4" selection-end="37" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="782" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/clojure_genetic_algorithm_example/clj/util_test.clj">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="448" selection-end="448" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/clojure_genetic_algorithm_example/clj/fitnesses_test.clj">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="6" selection-start="797" selection-end="797" vertical-scroll-proportion="0.21153846" vertical-offset="0" max-vertical-offset="884" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/clojure_genetic_algorithm_example/clj/crossover_test.clj">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="80" selection-start="1151" selection-end="1151" vertical-scroll-proportion="0.33722287" vertical-offset="0" max-vertical-offset="857" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/clojure_genetic_algorithm_example/clj/core_test.clj">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="44" selection-start="2298" selection-end="2298" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="901">
+        <state line="0" column="4" selection-start="4" selection-end="37" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="782">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/clojure_genetic_algorithm_example/clj/util.clj">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="25" selection-start="800" selection-end="800" vertical-scroll-proportion="0.11738149" vertical-offset="287" max-vertical-offset="1173" />
+        <state line="23" column="25" selection-start="800" selection-end="800" vertical-scroll-proportion="0.11738149" vertical-offset="287" max-vertical-offset="1173">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/clojure_genetic_algorithm_example/clj/core.clj">
@@ -551,9 +562,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/clojure_genetic_algorithm_example/java/crossover/Order1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="5" selection-start="317" selection-end="317" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1989">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/project.clj">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="18" selection-start="263" selection-end="296" vertical-scroll-proportion="0.14119601" vertical-offset="0" max-vertical-offset="602">
+        <state line="16" column="0" selection-start="855" selection-end="855" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/clojure_genetic_algorithm_example/clj/core_test.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="49" selection-start="342" selection-end="360" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="901">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/clojure_genetic_algorithm_example/clj/crossover_test.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="80" selection-start="1151" selection-end="1151" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/clojure_genetic_algorithm_example/clj/fitnesses_test.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="49" selection-start="212" selection-end="212" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/clojure_genetic_algorithm_example/clj/util_test.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="49" selection-start="172" selection-end="208" vertical-scroll-proportion="0.060283687" vertical-offset="0" max-vertical-offset="846">
           <folding />
         </state>
       </provider>
