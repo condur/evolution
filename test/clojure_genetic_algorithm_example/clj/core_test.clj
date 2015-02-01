@@ -3,7 +3,7 @@
             [clojure-genetic-algorithm-example.clj.fitnesses :as f]
             [clojure-genetic-algorithm-example.clj.core :refer :all]
             [midje.sweet :refer :all]
-            [midje.repl :as mr :exclude [record?]]
+            [midje.repl :as mr]
             [criterium.core :as c]))
 
 
@@ -38,8 +38,8 @@
                    [f/interface-quality f/rateability-from f/rateability-to]) =not=> nil)
 
   (facts "about 'multi-evaluation'"
-          (evolve sample-chrom settings
-                        f/interface-quality f/rateability-from f/rateability-to f/rateability-commodity)  =not=> nil)
+         (evolve sample-chrom settings
+                 f/interface-quality f/rateability-from f/rateability-to f/rateability-commodity) =not=> nil)
   )
 
 

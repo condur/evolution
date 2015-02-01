@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ReplState" timestamp="1393793530194">{:repl-history {:ide [], :local [], :remote []}}</component>
+  <component name="ReplState" timestamp="1422826173732">{:repl-history {:ide [], :local [&quot;(+ 1 2)&quot; &quot;(mr/autotest)&quot;], :remote []}}</component>
 </project>
-

@@ -1,7 +1,7 @@
 (ns clojure-genetic-algorithm-example.clj.util-test
   (:require [clojure-genetic-algorithm-example.clj.util :refer :all]
             [midje.sweet :refer :all]
-            [midje.repl :as mr :exclude [record?]]
+            [midje.repl :as mr]
             [criterium.core :as c]))
 
 (facts "about 'bit-compare'"

@@ -1,7 +1,7 @@
 (ns clojure-genetic-algorithm-example.clj.fitnesses-test
   (:require [clojure-genetic-algorithm-example.clj.fitnesses :as f]
             [midje.sweet :refer :all]
-            [midje.repl :as mr :exclude [record?]]))
+            [midje.repl :as mr]))
 
 (let [sample-chrom [{:commodity "ABC5", :from "A5", :id 1, :to "B3"} {:commodity "ABC2", :from "A2", :id 2, :to "B1"}
                     {:commodity "ABC4", :from "A1", :id 3, :to "B2"} {:commodity "ABC1", :from "A3", :id 4, :to "B5"}
